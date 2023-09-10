@@ -1,0 +1,1 @@
+gcc main.c des.h des.c -o msdc
